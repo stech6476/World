@@ -1,6 +1,6 @@
 # World
 beginner repo
-![headshot](mt_source.xlsx)
+![headshot]
 favorite books: 
 Jules Verne Voyages Extraordinaire/n
 Add a theme
