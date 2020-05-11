@@ -1,11 +1,11 @@
 Hello World!
-'new words' 
-#My Interests
-Backgammon, ruminating on history
-ludo king
-#My Blog
-this will be entry way to the real truth of world history
-#Get in Touch
+'new words' <br>
+#My Interests <br>
+Backgammon, ruminating on history <br>
+ludo <br>
+#My Blog <br>
+this will be entry way to the real truth of world history <br>
+#Get in Touch 
 <ul>
   <li><a href="https://payrollforblueocean.000webhostapp.com/index.php?route=payroll/home">Blue Ocean</a></li>
   <li><a href="https://www.theyucatantimes.com/2020/02/little-yucatecan-dancer-wins-a-scholarship-to-specialize-in-argentina/">The Real Mexico, the True Mexico, the Real meaning of Hispania, with Yucaten Indigenous Culture</a></li>
