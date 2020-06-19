@@ -1,3 +1,4 @@
 "foo file" 
 adding new commit
 foo
+more foo in master
